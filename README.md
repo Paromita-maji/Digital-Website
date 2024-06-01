@@ -6,26 +6,39 @@ This project is a responsive, professional, and animated website designed to sho
 # Features
 
 -Responsive Design 📱💻: The website is fully responsive and looks great on all devices, including desktops, tablets, and smartphones.
+
 -Professional Layout 🏢: A clean and professional design to make a strong impression on visitors.
+
 -Animations 🎥: Smooth and eye-catching animations to enhance user engagement.
+
 -Interactive Elements ✨: Features such as hover effects, sliders, and forms to improve user interaction.
+
 -SEO Friendly 🔍: Optimized for search engines to improve visibility and ranking.
 
 # Technologies Used
 
 -HTML5 🏷️: For the structure of the website.
+
 -CSS3 🎨: For styling and animations.
+
 -JavaScript ⚙️: For interactive elements and animations.
+
 -Bootstrap 📏: For responsive design and layout.
+
 -jQuery 💡: For DOM manipulation and event handling.
+
 -Animate.css 🎭: For CSS animations.
+
 -Font Awesome 🌟: For icons.
 
 # Usage
 
 -Home Page 🏠: Displays a welcoming message with an animated background and a brief introduction to the services offered.
+
 -Services Page 💼: Lists all the digital services provided with detailed descriptions and animated icons.
+
 -About Page 👥: Provides information about the company, its mission, and the team members.
+
 -Contact Page 📞: Includes a contact form for visitors to get in touch, along with a Google Maps integration for location.
 
 # Demo
