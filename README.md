@@ -44,3 +44,5 @@ This project is a responsive, professional, and animated website designed to sho
 # Demo
 You can access the live demo of the project at  [My Website](http://127.0.0.1:3000/index.html).
 
+### Screenshot:
+![Digital Service Website](https://github.com/Paromita-maji/Digital-Website/tree/main/ss)
