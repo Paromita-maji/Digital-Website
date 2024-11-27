@@ -42,7 +42,7 @@ This project is a responsive, professional, and animated website designed to sho
 -Contact Page 📞: Includes a contact form for visitors to get in touch, along with a Google Maps integration for location.
 
 # Demo
-You can access the live demo of the project at  [My Website](file:///C:/Users/user/OneDrive/Desktop/Digital%20Website/index.html).
+You can access the live demo of the project at  [My Website](http://127.0.0.1:3002/c:/Users/user/OneDrive/Desktop/Digital%20Website/index.html).
 
 ### Screenshot:
 ![Digital Service Website](https://github.com/Paromita-maji/Digital-Website/blob/main/ss/Screenshot%202024-06-01%20105001.png)
